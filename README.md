@@ -1,3 +1,3 @@
 # edu-github
-commit me
+commit me from MyBranch
 Text example
