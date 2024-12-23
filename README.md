@@ -1,3 +1,3 @@
 # edu-github
-commit me from MyBranch
-Text example
+ThirdBranch commit, comit 2;
+Text example XX~~~~
